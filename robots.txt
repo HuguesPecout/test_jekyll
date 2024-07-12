@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://HuguesPecout.github.io/al-folio/sitemap.xml
+Sitemap: https://HuguesPecout.github.io/test_jekyll/sitemap.xml
